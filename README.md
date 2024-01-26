@@ -7,10 +7,10 @@ Backend utilizado no projeto food explorer, um aplicativo web que simula um menu
 
 ## Referência
 
-- [Instalação](#-instalação)
-- [Tecnologias](#-Tecnologias-utilizadas)
-- [Aprendizados](#-Aprendizados)
-- [API](#-Documentação-da-API)
+- [Instalação](#Instalação)
+- [Tecnologias](#Tecnologias-utilizadas)
+- [Aprendizados](#Aprendizados)
+- [API](#Documentação-da-API)
 
 
 
